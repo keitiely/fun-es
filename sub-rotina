@@ -8,6 +8,7 @@ int subrotina(int num)
 	else{
 	printf("0");
 	}
+	return 0;
 }
 
 int main(){
@@ -16,4 +17,5 @@ int main(){
 	scanf("%d", &num);
 
 	subrotina(num);
+
 }
