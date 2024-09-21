@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int subrotina(int num)
+{  if(num>=0){
+		printf("1");
+	}
+	
+	else{
+	printf("0");
+	}
+}
+
+int main(){
+	int num;
+	printf("Digite um numero: ");
+	scanf("%d", &num);
+
+	subrotina(num);
+}
