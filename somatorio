@@ -1,3 +1,5 @@
+/*2-Faça uma função que receba dois números inteiros e positivos por parâmetro
+e retorne a soma dos N números inteiros existentes entre eles.*/
 #include <stdio.h>
 
 int soma(int a, int b){ 
