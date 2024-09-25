@@ -1,3 +1,4 @@
+/*7-Codifique a função retangulo(m,n) , que exibe um retângulo com altura m e largura n.*/
 #include <stdio.h>
 
 int retangulo(int m, int n){
