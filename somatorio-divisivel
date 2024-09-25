@@ -1,10 +1,9 @@
-#include <stdio.h>
-/* Crie uma func¸a~o que receba tre^s nu´meros inteiros a, b, c, sendo a maior
+/*3-Crie uma func¸a~o que receba tre^s nu´meros inteiros a, b, c, sendo a maior
 que 1. A func¸a~o devera´ somar todos os inteiros entre b e c que sejam
 divisi´veis por a (inclusive b e c) e retornar o resultado para a func¸a~o
 principal.
 */
-
+#include <stdio.h>
 int soma(int a, int b, int c){ 
 	int aux;
 	int somatorio = 0;
