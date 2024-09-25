@@ -1,10 +1,9 @@
-#include <stdio.h>
 /*4. Fac¸a uma func¸a~o que receba um u´nico valor representando segundos.
 Essa func¸a~o devera´
 converte^-lo para horas, minutos e segundos. Os segundos devem ser
 passados como para^metro
 */
-
+#include <stdio.h>
 void conversao(int seg){ 
 	int hrs, min;
 	min= (seg / 60);
